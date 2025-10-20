@@ -1,16 +1,7 @@
-\# Titolo
+# Index
 
+Breve nota.
 
-
-breve nota
-
-
-
-
-
-| nome | cognome |
-
-|------|---------|
-
-| luca | sacchi |
-
+| Nome | Cognome |
+| ---- | ------- |
+| Luca | Sacchi |
